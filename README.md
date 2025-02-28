@@ -4,9 +4,9 @@
 
 ! [Скриншот1] (https://github.com/Ewgens/Avtoservis/blob/main/Бот.jpg?raw=true)
 
-! [Скриншот2] https://github.com/Ewgens/Avtoservis/blob/main/Календарь.jpg?raw=true
+! [Скриншот2] (https://github.com/Ewgens/Avtoservis/blob/main/Календарь.jpg?raw=true)
 
-! [Скриншот3] https://github.com/Ewgens/Avtoservis/blob/main/Савви.jpg?raw=true
+! [Скриншот3] (https://github.com/Ewgens/Avtoservis/blob/main/Савви.jpg?raw=true)
 
 ## Описание проекта
 
