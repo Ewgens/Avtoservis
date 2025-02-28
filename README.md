@@ -2,7 +2,7 @@
 
 Ссылка на проект: https://t.me/Avtoservis_1_bot
 
-! [Скриншот1:] (https://github.com/Ewgens/Avtoservis/blob/main/Бот.jpg?raw=true)
+! [Скриншот1] (https://github.com/Ewgens/Avtoservis/blob/main/Бот.jpg?raw=true)
 
 Скриншот2: https://github.com/Ewgens/Avtoservis/blob/main/Календарь.jpg?raw=true
 
